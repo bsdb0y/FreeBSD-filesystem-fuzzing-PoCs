@@ -1,0 +1,11 @@
+1. mdconfig image_file
+2. mount /dev/mdX some_folder
+3. cd some_folder
+4. Create any file
+5. BOOM, kernel panic 
+
+In case of automoint,
+
+1. When automount is set like using /etc/fstab file, then just flash the image to USB drive and attach it.
+2. Then open the mounted directory and create some file
+3. PANIC comes.

@@ -1,0 +1,5 @@
+In FreeBSD-12
+
+1. flash the image to USB drive
+2. attach the USB drive twice
+3. BOOM panic comes
